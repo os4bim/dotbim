@@ -16,4 +16,4 @@ Execute this code in your IDE by copy paste the previous tuples at the beginning
 
 ### 3/ Revit_MEP_data.bim
 
-You obtain a dotbim file ! You can try this sample with
+You obtain a dotbim file ! You can try this sample with https://3dviewer.net/
