@@ -23,3 +23,6 @@ You can click on all this element to check the desired data you extracted from r
 Enjoy !
 
 ![alt text](https://github.com/os4bim/dotbim/blob/main/revit_dotbim.png)
+
+Visit dotbim website : https://dotbim.net/
+Visit this topic to see how we could improve some viewers to display data : https://github.com/kovacsv/Online3DViewer/issues/258
