@@ -21,3 +21,5 @@ You have a schematic 3D model of your installation that you can easily share to 
 The green line are the ducts, the blues ones the pipes ans the red pyramids the equipment.
 You can click on all this element to check the desired data you extracted from revit !
 Enjoy !
+
+![alt text](https://github.com/os4bim/dotbim/blob/main/revit_dotbim.png)
