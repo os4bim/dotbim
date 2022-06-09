@@ -18,6 +18,6 @@ Execute this code in your IDE by copy paste the previous tuples at the beginning
 
 You obtain a dotbim file ! You can try this sample : just drop it in https://3dviewer.net/
 You have a schematic 3D model of your installation that you can easily share to your colleagues !
-The green line are the ducts, the blues ones the pipes ans the red pyramid the equipment.
-You can click on all this element to have the desired data you extracted from revit !
+The green line are the ducts, the blues ones the pipes ans the red pyramids the equipment.
+You can click on all this element to check the desired data you extracted from revit !
 Enjoy !
